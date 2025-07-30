@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "nathan",
+        "oem": "xiaomi",
+        "device": "Redmi Note 14 4G",
+        "filename": "lineage-22.2-20250730-UNOFFICIAL-tanzanite.zip",
+        "download": "https://sourceforge.net/projects/nathan-test-builds/files/tanzanite/LineageOS/lineage-22.2-20250730-UNOFFICIAL-tanzanite.zip/download",
+        "timestamp": 1753879864,
+        "md5": "4926cafb3406220aebe3ddfb664b8f95",
+        "sha256": "b6b42276f6b042df1e829b6299ed8311b1bc0b17a8418fcfc7d89d187983ef5c",
+        "size": 1246970852,
+        "version": "2.22",
+        "buildtype": "Monthly",
+    }
+  ]
+}
